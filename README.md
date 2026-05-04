@@ -1,47 +1,64 @@
 # Hi there, I'm Adi 👋
 
-### Frontend Developer & Technical Project Manager
-I am a web developer focused on building responsive, high-performance, and modern user interfaces. I bridge the gap between visual design and efficient code, while exploring AI automation to streamline development workflows and server management.
+### **Frontend & Backend Architect** | **AI Automations Enthusiast**
+
+I'm a passionate web developer dedicated to crafting modern, high-performance web applications and streamlining development processes through innovative solutions, especially exploring AI automation. Currently focusing on building robust SaaS platforms and leveraging powerful frameworks.
 
 ---
 
-### 🚀 Tech Stack
+## 🚀 **Full Stack Tech Arsenal**
 
-**Frontend & UI Frameworks**
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232d.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Astro](https://img.shields.io/badge/astro-%2320232d.svg?style=for-the-badge&logo=astro&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend & Server-Side**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-**Infrastructure & Tools**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-
----
-
-### 🛠️ Current Focus
-- 🌐 **Modern Web Architecture:** Building high-performance sites using **Next.js**, **Astro**, and **Tailwind CSS**.
-- 🤖 **AI Automation:** Implementing **Autonomous AI Agents** for server management and automated GitHub issue tracking.
-- 📱 **SaaS Development:** Developing a data management platform for the education sector.
-
----
-
-### 📊 GitHub Ecosystem
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adhybaswe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhybaswe&layout=compact&theme=tokyonight" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-%2320232d.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Astro-%2320232d.svg?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
+  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
+  <img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress" />
 </p>
 
 ---
 
-### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adi-baswe)
+## 🌟 **GitHub Live Ecosystem**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adhybaswe&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Adi's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhybaswe&layout=compact&theme=tokyonight&langs_count=10" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adhybaswe&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adhybaswe&theme=tokyonight&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🛠️ **Current Focus & Experiments**
+
+- 🤖 **Autonomous AI Agents:** Exploring AI for automated server management and issue triage.
+- 🌐 **Modern Web Arch:** Building high-performance sites with Next.js, Astro, and Tailwind.
+- 📱 **SaaS Development:** Innovating with data management platforms for the education sector.
+
+---
+
+## 📬 **Let's Connect**
+
+<p align="left">
+  <a href="https://linkedin.com/in/adi-baswe">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
