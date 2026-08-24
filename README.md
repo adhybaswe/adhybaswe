@@ -1,8 +1,10 @@
 # Hi there, I'm Adi 👋
 
-### **Frontend & Backend Architect** | **AI Automations Enthusiast**
+### **Software Engineer** | **AI Automations Enthusiast**
 
-I'm a passionate web developer dedicated to crafting modern, high-performance web applications and streamlining development processes through innovative solutions, especially exploring AI automation. Currently focusing on building robust SaaS platforms and leveraging powerful frameworks.
+Software Engineer with 8+ years of experience building and maintaining web, mobile, and SaaS applications. Strong expertise in React, TypeScript, JavaScript, and modern frontend engineering, with additional experience in Node.js, backend APIs, mobile development, automation, and third-party integrations.
+
+Experienced in building products end-to-end, from translating product and UI/UX requirements into production-ready applications to improving performance, developing reusable systems, and maintaining scalable codebases. Comfortable working independently in remote environments and collaborating with cross-functional teams to deliver reliable, maintainable, and high-quality software.
 
 ---
 
